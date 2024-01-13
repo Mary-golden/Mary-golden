@@ -5,8 +5,6 @@
 * 🌱 I’m currently learning HTML, CSS and Javascript with SheCodes
 
 * 💞️ I’m looking to collaborate with fellow learners
-
-* 📫 How to reach me [Email me](goldnsvo15@gmail.com)
   
 * ⚡ Fun fact: I love dancing and singing but i am terrible at it
 
